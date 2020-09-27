@@ -1,0 +1,3 @@
+[submodule "KeyboardMessage-example/src/Keyboard"]
+	path = KeyboardMessage-example/src/Keyboard
+	url = git@github.com:speendo/Keyboard.git
